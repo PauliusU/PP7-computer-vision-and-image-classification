@@ -50,11 +50,10 @@ pipenv run jupyter notebook PP7-computer-vision-and-image-classification.ipynb
 
 ## Requirements
 
-- [ ] Take Covid data from [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7372265/) … or any other place you can find a credible source of covid lung imaging datasets.
-- [ ] Train a model that can classify people as having covid and not having covid based on the images.
+- [ ] Take Covid data from [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7372265/) … or any other place you can find a credible source of Covid lung imaging datasets.
+- [ ] Train a model that can classify people as having Covid and not having Covid based on the images.
 - [ ] No requirements on the performance of the model, anything >50% (random guessing) would be great!
 - [ ] No requirements for the usage of a framework: you can use Keras, Pytorch or Fast.ai - or even all.
-- [ ] No requirements to use transfer learning (however it is recommended). 
+- [ ] No requirements to use transfer learning (however it is recommended).
 - [ ] Write a short paragraph on what you learned while implementing a solution for this specific task (not part 7 of the course, just the task) (5 sentences / ideas minimum).
-- [ ] Please provide a link to the collab notebook (double-check the share options of the notebook) or GitHub link with jupyter notebook code when finished for review and evaluation.
-
+- [ ] Please provide a link to the Google Colab notebook (double-check the share options of the notebook) or GitHub link with jupyter notebook code when finished for review and evaluation.
