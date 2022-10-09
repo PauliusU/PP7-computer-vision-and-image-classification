@@ -3,7 +3,7 @@
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP7-computer-vision-and-image-classification/blob/master/PP7-computer-vision-and-image-classification.ipynb)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/PP7-computer-vision-and-image-classification/blob/master/LICENSE)
 
-Practical Project 7 (PP7) for Artificial Intelligence studies to solidify basics of **computer vision and image classification** by practicing. 
+Practical Project 7 (PP7) for Artificial Intelligence studies to solidify basics of **computer vision and image classification** by practicing.
 
 ## Usage
 
@@ -55,5 +55,5 @@ pipenv run jupyter notebook PP7-computer-vision-and-image-classification.ipynb
 - [ ] No requirements on the performance of the model, anything >50% (random guessing) would be great!
 - [ ] No requirements for the usage of a framework: you can use Keras, Pytorch or Fast.ai - or even all.
 - [ ] No requirements to use transfer learning (however it is recommended).
-- [ ] Write a short paragraph on what you learned while implementing a solution for this specific task (not part 7 of the course, just the task) (5 sentences / ideas minimum).
+- [ ] Write a short paragraph on what you learned while implementing a solution for this specific task (5 sentences / ideas minimum).
 - [ ] Please provide a link to the Google Colab notebook (double-check the share options of the notebook) or GitHub link with jupyter notebook code when finished for review and evaluation.
