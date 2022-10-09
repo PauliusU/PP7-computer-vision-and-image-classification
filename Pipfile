@@ -8,6 +8,7 @@ jupyter = "*"
 keras = "*"
 matplotlib = "*"
 numpy = "*"
+requests = "*"
 sklearn = "*"
 
 [dev-packages]
