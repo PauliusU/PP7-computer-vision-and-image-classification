@@ -1,6 +1,6 @@
 # PP7 computer vision and image classification
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP7-computer-vision-and-image-classification/blob/master/PP7-computer-vision-and-image-classification.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP7-computer-vision-and-image-classification/blob/master/AI-PP7-computer-vision-and-image-classification.ipynb)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/PP7-computer-vision-and-image-classification/blob/master/LICENSE)
 
 Practical Project 7 (PP7) for Artificial Intelligence studies to solidify basics of **computer vision and image classification** by practicing.
@@ -9,7 +9,7 @@ Practical Project 7 (PP7) for Artificial Intelligence studies to solidify basics
 
 ### Automatic launch
 
-1. To run in browser click on [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP7-computer-vision-and-image-classification/blob/master/PP7-computer-vision-and-image-classification.ipynb) badge.
+1. To run in browser click on [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PauliusU/PP7-computer-vision-and-image-classification/blob/master/AI-PP7-computer-vision-and-image-classification.ipynb) badge.
 2. (Or) To launch locally on Windows just **run automatic setup script** in `Git Bash`:
 
 ```bash
@@ -45,7 +45,7 @@ pipenv install
 5. Run project:
 
 ```bash
-pipenv run jupyter notebook PP7-computer-vision-and-image-classification.ipynb
+pipenv run jupyter notebook AI-PP7-computer-vision-and-image-classification.ipynb
 ```
 
 ## Requirements
