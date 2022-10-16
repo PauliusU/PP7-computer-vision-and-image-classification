@@ -11,6 +11,7 @@ numpy = "*"
 requests = "*"
 sklearn = "*"
 tensorflow-macos = "*"
+tensorflow-metal = "*"
 
 [dev-packages]
 
