@@ -10,6 +10,7 @@ matplotlib = "*"
 numpy = "*"
 requests = "*"
 sklearn = "*"
+tensorflow-macos = "*"
 
 [dev-packages]
 
